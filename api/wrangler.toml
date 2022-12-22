@@ -1,0 +1,6 @@
+name = "javapay"
+compatibility_date = "2022-12-16"
+main = "dist/index.js"
+[build]
+command = "pnpm build"
+watch_dir = "src"
